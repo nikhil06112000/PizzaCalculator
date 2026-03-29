@@ -1,6 +1,6 @@
 public class Main {
      public static void main(String[] args){
-        Pizza pi = new Pizza(true);
+        Pizza pi = new Pizza(false);
 
         pi.getPizzaPrice();
         pi.addExtraCheese();
